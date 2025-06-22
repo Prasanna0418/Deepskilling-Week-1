@@ -1,0 +1,14 @@
+C:\Users\Sai Prassana\OneDrive\Attachments\Documents\week-1_designprinciplesand patterns\EX-2 Factory Pattern\bin\Debug\net9.0\EX-2 Factory Pattern.exe
+C:\Users\Sai Prassana\OneDrive\Attachments\Documents\week-1_designprinciplesand patterns\EX-2 Factory Pattern\bin\Debug\net9.0\EX-2 Factory Pattern.deps.json
+C:\Users\Sai Prassana\OneDrive\Attachments\Documents\week-1_designprinciplesand patterns\EX-2 Factory Pattern\bin\Debug\net9.0\EX-2 Factory Pattern.runtimeconfig.json
+C:\Users\Sai Prassana\OneDrive\Attachments\Documents\week-1_designprinciplesand patterns\EX-2 Factory Pattern\bin\Debug\net9.0\EX-2 Factory Pattern.dll
+C:\Users\Sai Prassana\OneDrive\Attachments\Documents\week-1_designprinciplesand patterns\EX-2 Factory Pattern\bin\Debug\net9.0\EX-2 Factory Pattern.pdb
+C:\Users\Sai Prassana\OneDrive\Attachments\Documents\week-1_designprinciplesand patterns\EX-2 Factory Pattern\obj\Debug\net9.0\EX-2 Factory Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sai Prassana\OneDrive\Attachments\Documents\week-1_designprinciplesand patterns\EX-2 Factory Pattern\obj\Debug\net9.0\EX-2 Factory Pattern.AssemblyInfoInputs.cache
+C:\Users\Sai Prassana\OneDrive\Attachments\Documents\week-1_designprinciplesand patterns\EX-2 Factory Pattern\obj\Debug\net9.0\EX-2 Factory Pattern.AssemblyInfo.cs
+C:\Users\Sai Prassana\OneDrive\Attachments\Documents\week-1_designprinciplesand patterns\EX-2 Factory Pattern\obj\Debug\net9.0\EX-2 Factory Pattern.csproj.CoreCompileInputs.cache
+C:\Users\Sai Prassana\OneDrive\Attachments\Documents\week-1_designprinciplesand patterns\EX-2 Factory Pattern\obj\Debug\net9.0\EX-2 Factory Pattern.dll
+C:\Users\Sai Prassana\OneDrive\Attachments\Documents\week-1_designprinciplesand patterns\EX-2 Factory Pattern\obj\Debug\net9.0\refint\EX-2 Factory Pattern.dll
+C:\Users\Sai Prassana\OneDrive\Attachments\Documents\week-1_designprinciplesand patterns\EX-2 Factory Pattern\obj\Debug\net9.0\EX-2 Factory Pattern.pdb
+C:\Users\Sai Prassana\OneDrive\Attachments\Documents\week-1_designprinciplesand patterns\EX-2 Factory Pattern\obj\Debug\net9.0\EX-2 Factory Pattern.genruntimeconfig.cache
+C:\Users\Sai Prassana\OneDrive\Attachments\Documents\week-1_designprinciplesand patterns\EX-2 Factory Pattern\obj\Debug\net9.0\ref\EX-2 Factory Pattern.dll

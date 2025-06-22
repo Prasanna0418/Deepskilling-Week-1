@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "EX-2 Factory Pattern/1.0.0": {
+        "runtime": {
+          "EX-2 Factory Pattern.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EX-2 Factory Pattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
